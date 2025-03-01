@@ -8,7 +8,7 @@ import threading
 import time
 
 # Initialize the Gemini API
-genai.configure(api_key="AIzaSyBkhF9_HJhrFgOIHKQwEJPXjK6mYg-Yxa4")
+genai.configure(api_key="YOUR API KEY FROM GENAI")
 
 # Text-to-Speech engine setup
 engine = pyttsx3.init('nsss')
